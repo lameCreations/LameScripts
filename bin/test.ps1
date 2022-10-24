@@ -1,0 +1,1 @@
+get-process | export-csv -path "/home/troy/test.csv"
